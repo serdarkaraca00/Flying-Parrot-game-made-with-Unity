@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: b2aaf495410fc0d418932260ede538eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_0"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3194
+        width: 1054
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cd0db8963a1f040ba1f10c744bbd37
+      internalID: 936690026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_1"
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 3266
+        width: 1107
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911a260bb904c294eaf30c4936cefa1b
+      internalID: 1627947051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_2"
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 3323
+        width: 1155
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b25f77cd405c614cbe349e423df6243
+      internalID: 1200671739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_3"
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 3155
+        width: 1121
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb8335ceb7e81649aad494816c1fc13
+      internalID: 1008314096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_4"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2265
+        width: 1052
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476091a3501b92a498530a386a09b412
+      internalID: 282579122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_5"
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2395
+        width: 1007
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd67b978e1c5e4545b067b84f104cd79
+      internalID: -1031810644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_6"
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 2546
+        width: 1005
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ffa08bb0e6eb24291905e42cefe6ac
+      internalID: -1083295721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_7"
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 2398
+        width: 1004
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a2d6d741f56e4ba34f90b9d0fd450
+      internalID: -601156111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_8"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1326
+        width: 1055
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523617ebd8696e34290c0c9f96cb4a7f
+      internalID: -949287425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_9"
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1396
+        width: 1106
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4b661063715a04b8b200b65efaea31
+      internalID: 723512143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_10"
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1453
+        width: 1155
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e1fdd42052a174eaf0de2933fe9fec
+      internalID: 955262625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_11"
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 1285
+        width: 1122
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292c4a976f651194d8bcc109fbf4632e
+      internalID: -904494638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_12"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 330
+        width: 1052
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476e9c7f7aa69594b8316f51d243eec4
+      internalID: 465402961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_13"
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 459
+        width: 1009
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada30552879f8d44ca9c79cd1e824538
+      internalID: 489687959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_14"
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 611
+        width: 1006
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2e33b113f00324783328064d5a09df
+      internalID: -1311694804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_15"
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 530
+        width: 1006
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f30331e99cf744289d67a1f38a866b
+      internalID: 2012893425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_5": -1031810644
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_4": 282579122
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_11": -904494638
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_15": 2012893425
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_8": -949287425
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_6": -1083295721
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_0": 936690026
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_7": -601156111
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_2": 1200671739
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_1": 1627947051
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_3": 1008314096
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_13": 489687959
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_9": 723512143
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_12": 465402961
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_14": -1311694804
+      "k\u0131rm\u0131z\u0131 ve sar\u0131 papa\u011Fan_10": 955262625
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
